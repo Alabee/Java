@@ -6,6 +6,11 @@ public class Arrays {
             System.out.println(array[i]);
         }
         
+        //enhanced for loop
+        for(int temp : array){
+            System.out.println(temp);
+        }
+        
     }
     
 }
