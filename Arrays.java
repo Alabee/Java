@@ -10,7 +10,8 @@ public class Arrays {
         for(int temp : array){
             System.out.println(temp);
         }
-        
+        //Declaring empty array
+        int[] x = new int[5];
     }
     
 }
